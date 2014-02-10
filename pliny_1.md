@@ -19,30 +19,30 @@ Grocery List:
 
 Mash Log:
 ---------
-
-2:30 Infused 20 quarts of water at 167 degrees
-2:35 The water temp hadn't stabilized sufficiently and the heat from the cast iron warmed up the water as it came out. Mash temp was a little high, about 156 degrees. 
-2:36 Cooled it down to far by adding 3 quarts of ground temp water in one quart increments, getting 147-151 readings
-2:42 Ended up at 149 after another 5 minute rest. 
-3:48 Mash rest for 60 minutes, temp was 147, draining stopped early, braid was clogged. 
-4:00 Sparge would have been 19 quarts, but three quarts went to cooling, so I'm going to sparge at 180 with 16 quarts. 
-4:30 Final volume was 8 gallons at 1.045 gravity
+  
+- **2:30** Infused 20 quarts of water at 167 degrees
+- **2:35** The water temp hadn't stabilized sufficiently and the heat from the cast iron warmed up the water as it came out. Mash temp was a little high, about 156 degrees. 
+- **2:36** Cooled it down to far by adding 3 quarts of ground temp water in one quart increments, getting 147-151 readings
+- **2:42** Ended up at 149 after another 5 minute rest. 
+- **3:48** Mash rest for 60 minutes, temp was 147, draining stopped early, braid was clogged. 
+- **4:00** Sparge would have been 19 quarts, but three quarts went to cooling, so I'm going to sparge at 180 with 16 quarts. 
+- **4:30** Final volume was 8 gallons at 1.045 gravity
 
 I had to stop for a few hours at this point family got home and they need dinner.
 
 Boil Log:
 ---------
 
-7:20 Started heat with wort at 120 degrees. Worried about running out of gas so taking it easy.
-7:53 Boil started, kettle is too full, gonna hold off on the first addition, maybe make it a 60.
-8:02 - 4oz Columbus
-8:33 1oz Simcoe
-9:08 Strain hops away, put in irish moss, yeast nutrient, corn sugar, place chiller
-9:08 1oz Columbus
-9:20 1oz Centennial @0 min
-9:20 2oz Simcoe @0 min
-9:20 Eyeball measured the pot, looks about a gallon down from where it started (6.8 gallons in the pot or so), with all these hops and the chiller in there, I figure that's right
-9:47 Pitch @68 degrees
+- **7:20** Started heat with wort at 120 degrees. Worried about running out of gas so taking it easy.
+- **7:53** Boil started, kettle is too full, gonna hold off on the first addition, maybe make it a 60.
+- **8:02** - 4oz Columbus
+- **8:33** 1oz Simcoe
+- **9:08** Strain hops away, put in irish moss, yeast nutrient, corn sugar, place chiller
+- **9:08** 1oz Columbus
+- **9:20** 1oz Centennial @0 min
+- **9:20** 2oz Simcoe @0 min
+- **9:20** Eyeball measured the pot, looks about a gallon down from where it started (6.8 gallons in the pot or so), with all these hops and the chiller in there, I figure that's right
+- **9:47** Pitch @68 degrees
 
 Final Measurements: 
 --------------------
