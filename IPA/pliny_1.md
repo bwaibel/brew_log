@@ -54,5 +54,13 @@ Notes:
 
 I need to measure my final volume better, needed another 30 minutes on the boil at least. If I had gotten to 5.5 where I wanted to be, the OG would have been (65*6.5)/5.5 = 77, which is what I wanted it to be (if not a little higher).
 
+Day 10 
+---------------
+
+Gravity: 1.008
+Added 1oz Simcoe, 1oz Columbus
+
+
+
 
      
