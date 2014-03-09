@@ -68,11 +68,11 @@ Day 26: March 8, 2014
 --------------------
 Racked to keg, Gravity 1.006
 
-Alcohol By Volume:	7.74%
-Apparent Attenuation:	90%
-Calories:	210.5 per 12oz bottle
-Original Gravity:	15.90 °P, 1.065
-Final Gravity:	1.54 °P, 1.006
+    Alcohol By Volume:	7.74%
+    Apparent Attenuation:	90%
+    Calories:	210.5 per 12oz bottle
+    Original Gravity:	15.90 °P, 1.065
+    Final Gravity:	1.54 °P, 1.006
 
 
 
