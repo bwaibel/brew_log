@@ -54,17 +54,17 @@ Notes:
 
 I need to measure my final volume better, needed another 30 minutes on the boil at least. If I had gotten to 5.5 where I wanted to be, the OG would have been (65*6.5)/5.5 = 77, which is what I wanted it to be (if not a little higher).
 
-Day 10 
+Day 10: Feb 20, 2014
 ---------------
 
 Gravity: 1.008
 Added 1oz Simcoe, 1oz Columbus
 
-Day 20
+Day 20: March 2, 2014
 ------------
 Added 1z Simcoe, 1oz Centennial
 
-March 8 2014
+Day 26: March 8, 2014
 --------------------
 Racked to keg, Gravity 1.006
 
