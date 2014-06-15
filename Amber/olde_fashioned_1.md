@@ -22,7 +22,7 @@ STATS:
 - Original Gravity: 1.058
 - Final Gravity: 1.016
 - ABV (standard): 5.44%
-- IBU (tinseth): 35.86
+- IBU (tinseth): 42.05
 - SRM (morey): 17.15
 
 FERMENTABLES:
@@ -33,8 +33,8 @@ FERMENTABLES:
 
 HOPS:
 
-- 1 oz - Citra, Type: Leaf/Whole, AA: 11, Use: Boil for 30 min, IBU: 28.47
-- 1 oz - Citra, Type: Leaf/Whole, AA: 11, Use: Boil for 5 min, IBU: 7.39
+- 1 oz - Citra, Type: Leaf/Whole, AA: 12.9, Use: Boil for 30 min, IBU: 33.39
+- 1 oz - Citra, Type: Leaf/Whole, AA: 12.9, Use: Boil for 5 min, IBU: 8.66
 
 YEAST:
 
