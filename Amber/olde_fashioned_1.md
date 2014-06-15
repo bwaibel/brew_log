@@ -52,5 +52,10 @@ Mash Log:
   
 - **3:15** Infused 16 quarts of water at 169 degrees
 - **3:20** Took 4 corners temp readings, average around 156.5, 156.0 to 157.0
+- **4:13** 154.5 degrees, collected 2qt vorlauf
+- **4:20** 2 gallons of wort collected.
+- **4:20** 5 gallon sparge 186 degrees. 
+- **4:30** collecting sparge run off
+- **4:47** broke my refractometer, shit... don't soak them in PBW, they're not water tight and they don't come apart to dry.
 
 
