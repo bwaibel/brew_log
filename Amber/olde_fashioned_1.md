@@ -57,5 +57,5 @@ Mash Log:
 - **4:20** 5 gallon sparge 186 degrees. 
 - **4:30** collecting sparge run off
 - **4:47** broke my refractometer, shit... don't soak them in PBW, they're not water tight and they don't come apart to dry.
-
+- **4:52** hydrometer says 1.030 for 7 gallons - that's 47.59% efficiency, hmm.
 
