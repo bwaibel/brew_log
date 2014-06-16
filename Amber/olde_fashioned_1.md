@@ -60,6 +60,10 @@ Mash Log:
 - **4:52** hydrometer says 1.030 for 7 gallons - that's 47.59% efficiency, hmm.
 - **7:16** slaps forehead, took hydrometer reading for 180+ degree wort, it was at least 1.049 which is pretty good
 
+Intermission
+------------
+
+Grilled some ridiculous rib eye's for the family, so good.
 
 Boil Log
 ---------
@@ -68,5 +72,7 @@ Boil Log
 - **7:19** 6.5 gallons
 - **7:36** 6.~1 gallons, 1 oz citra hops
 - **7:58** .5 oz citra, 1tsp irish moss, .5tsp wyeast nutrient, dropped in chiller
- 
+- **8:05** .5 oz citra
+- **8:10** flame out
+- **8:31** yeast pitched, 68 degrees, OG=1.054, 5.5 gallons, time to clean up.
 
