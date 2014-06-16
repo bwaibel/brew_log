@@ -58,4 +58,15 @@ Mash Log:
 - **4:30** collecting sparge run off
 - **4:47** broke my refractometer, shit... don't soak them in PBW, they're not water tight and they don't come apart to dry.
 - **4:52** hydrometer says 1.030 for 7 gallons - that's 47.59% efficiency, hmm.
+- **7:16** slaps forehead, took hydrometer reading for 180+ degree wort, it was at least 1.049 which is pretty good
+
+
+Boil Log
+---------
+
+- **6:50** hot break, boil over, doh!
+- **7:19** 6.5 gallons
+- **7:36** 6.~1 gallons, 1 oz citra hops
+- **7:58** .5 oz citra, 1tsp irish moss, .5tsp wyeast nutrient, dropped in chiller
+ 
 
